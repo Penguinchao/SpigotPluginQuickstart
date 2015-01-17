@@ -1,0 +1,7 @@
+name: \${artifactId}
+main: \${package}.\${artifactId}
+version: \${version}
+commands:
+    \${artifactId}:
+        description: \${artifactId}s first Command
+        usage: /<command>
