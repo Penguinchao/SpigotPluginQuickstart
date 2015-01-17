@@ -26,3 +26,13 @@ the JavaDoc lives [here](https://hub.spigotmc.org/javadocs/spigot/).
 ## Contribute
 
 I appreciate every help i can get. If you are missing something, feel free to open an [Issue](https://github.com/tkausl/SpigotPluginQuickstart/issues) or Pull-Request.
+
+## FAQ
+
+#### What is an Archetype?
+
+An Archetype is mavens way to provide skeleton projects. Archetypes provide a directory-structure and a few default files, to quickstart a project without setting everything up again and again.
+
+#### Your English is bad.
+
+I hope its not **too** bad. English isn't my first language, feel free to message me or pull-request a change.
